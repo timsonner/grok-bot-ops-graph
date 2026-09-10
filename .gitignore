@@ -1,0 +1,3 @@
+# local scratch from tooling — never publish
+agent-tools/
+.DS_Store
